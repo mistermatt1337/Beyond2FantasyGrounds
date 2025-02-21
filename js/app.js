@@ -1,11 +1,14 @@
-/*jshint esversion: 6 */
-/*jshint multistr: true */
-
-/* 
-
-Used under unlicense in public domain
-
-*/
+import $ from 'jquery';
+import 'jqwidgets-scripts/jqwidgets/jqxcore';
+import 'jqwidgets-scripts/jqwidgets/jqxbuttons';
+import 'jqwidgets-scripts/jqwidgets/jqxinput';
+import 'jqwidgets-scripts/jqwidgets/jqxtextarea';
+import 'jqwidgets-scripts/jqwidgets/jqxwindow';
+import 'jqwidgets-scripts/jqwidgets/jqxscrollbar';
+import 'jqwidgets-scripts/jqwidgets/jqxmenu';
+import 'jqwidgets-scripts/jqwidgets/jqxdropdownlist';
+import 'jqwidgets-scripts/jqwidgets/jqxlistbox';
+import 'jqwidgets-scripts/jqwidgets/jqxradiobutton';
 
 var startXML = "";
 
